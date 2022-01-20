@@ -1,3 +1,8 @@
+# 漢直の紹介スライドへのリンク
+
+- [漢直の世界へようこそ！](https://at-aka.blogspot.com/2010/10/t-code-google-techtalk.html)
+- [「日本語入力 T-Code のススメ」〜 Google 日本語入力 TechTalk ライトニングトーク](https://at-aka.blogspot.com/2010/10/t-code-google-techtalk.html)
+
 # 漢字直接入力コミュニティサーベイ
 
 |FIELD1   |OS                     |漢直スタイル  |漢直実現方法                                                                                               |
