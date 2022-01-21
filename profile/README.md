@@ -7,7 +7,7 @@
 
 |FIELD1   |OS                     |漢直スタイル  |漢直実現方法                                                                                               |
 |---------|-----------------------|--------|-----------------------------------------------------------------------------------------------------|
-|kozo2    |Windows                |T-Code  |https://meech.hatenadiary.org/entry/20101222/1293037939 と 漢索JS。ベストプラクティスは https://kanchoku.github.io/|
+|kozo2    |Windows                |T-Code  |https://meech.hatenadiary.org/entry/20101222/1293037939 と [漢索JS](https://miau.github.io/eljs/kansakujs.html)。ベストプラクティスは https://kanchoku.github.io/|
 |nyaocat  |Linux                  |G-Code  |uim-tutcode + 自作のgcode設定ファイル                                                                         |
 |nixeneko |Windows                |TUT-Code|漢直Win https://github.com/kanchoku/kw                                                                 |
 |naota    |Linux                  |T-Code  |PC https://github.com/naota/fcitx-tcode Android 自作のT-Code IME                                        |
