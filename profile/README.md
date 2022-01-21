@@ -1,3 +1,8 @@
+# kanchokujp.slack.com へのお誘い
+
+kanchokujp.slack.com は 漢直についての情報交換を行う Slack workspace です。
+招待リンクは[「こちら」](https://join.slack.com/t/kanchokujp/shared_invite/zt-121epkhc1-9uoVU2G0DOrbtfRYoVySRQ)です
+
 # 漢直の紹介スライドへのリンク
 
 - [漢直の世界へようこそ！](https://www.slideshare.net/takafumisakakibara75/lt-20130227-kanchokuupload-16833543)
