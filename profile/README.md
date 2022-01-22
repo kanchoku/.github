@@ -19,6 +19,7 @@ kanchokujp.slack.com は 漢直についての情報交換を行う Slack worksp
 |yoyuse   |macOS                  |TT-Code |Emacs + 自作 elisp (未公開)。MacUIM + 自作の TT-code 設定ファイル                                                   |
 |deton    |Windows, Linux, Android|TUT-Code|tcvime, tsf-tutcode, AndroidTUTCode                                                                  |
 |na4zagin3|Linux                  |TUT-Code|Emacs + tc.el, uim-tutcode; 旧字用キーマップを https://github.com/na4zagin3/uhim-dict で生成                     |
+|ujimushi |Windows, Linux         |T-Code  |mozc, Google日本語入力のローマ字テーブル強腕カスタマイズ [サンプル](https://gist.github.com/ujimushi/acedcdecb064c8147551303a4765fbcd) [解説](https://srad.jp/~ujimushi/journal/588295/)|
 
 # 漢字直接入力比較表
 
