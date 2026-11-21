@@ -1,7 +1,7 @@
-# kanchokujp.slack.com へのお誘い
+# 漢直 Discord server へのお誘い
 
-kanchokujp.slack.com は 漢直についての情報交換を行う Slack workspace です。
-招待リンクは[「こちら」](https://join.slack.com/t/kanchokujp/shared_invite/zt-121epkhc1-9uoVU2G0DOrbtfRYoVySRQ)です
+Slackの変更で90日以前の投稿が見れなくなった際にDiscordに移行したため、以前のSlack workspaceはほぼ動いていません。
+Discordの招待リンクはこちらです→ [https://discord.gg/b5QdDHrkBS](https://discord.gg/b5QdDHrkBS)
 
 # 漢直の紹介スライドへのリンク
 
